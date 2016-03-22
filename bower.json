@@ -1,0 +1,30 @@
+{
+  "name": "mc-grid",
+  "description": "",
+  "main": [
+    "dist/grid.js",
+    "dist/grid-templates.js",
+    "dist/main.scss"
+  ],
+  "authors": [
+    "Nicolás Gonzálvez <cristopher.gonzalvez@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "grid",
+    "angular",
+    "css",
+    "layout",
+    "box"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
