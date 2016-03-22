@@ -1,0 +1,32 @@
+
+grid {
+  display: block;
+
+  .grid {
+    display: flex;
+    flex-flow: row wrap;
+    height: 100%;
+    width: 100%;
+
+    > * {
+      box-sizing: border-box;
+      transition: all ease-out .75s;
+    }
+  }
+}
+
+@for $columns from 1 through 3 {
+  grid[cols='#{$columns}'] {
+
+    @for $i from 1 through $columns {
+      grid-box[span="#{$i}"] {
+        width: #{$i * 100 / $columns}%;
+      }
+    }
+
+    grid-box {
+      min-width: 100% / $columns;
+    }
+  }
+}
+
