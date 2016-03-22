@@ -41,3 +41,246 @@ grid[cols='3'] grid-box[span="3"] {
 
 grid[cols='3'] grid-box {
   min-width: 33.33333%; }
+
+grid[cols='4'] grid-box[span="1"] {
+  width: 25%; }
+
+grid[cols='4'] grid-box[span="2"] {
+  width: 50%; }
+
+grid[cols='4'] grid-box[span="3"] {
+  width: 75%; }
+
+grid[cols='4'] grid-box[span="4"] {
+  width: 100%; }
+
+grid[cols='4'] grid-box {
+  min-width: 25%; }
+
+grid[cols='5'] grid-box[span="1"] {
+  width: 20%; }
+
+grid[cols='5'] grid-box[span="2"] {
+  width: 40%; }
+
+grid[cols='5'] grid-box[span="3"] {
+  width: 60%; }
+
+grid[cols='5'] grid-box[span="4"] {
+  width: 80%; }
+
+grid[cols='5'] grid-box[span="5"] {
+  width: 100%; }
+
+grid[cols='5'] grid-box {
+  min-width: 20%; }
+
+grid[cols='6'] grid-box[span="1"] {
+  width: 16.66667%; }
+
+grid[cols='6'] grid-box[span="2"] {
+  width: 33.33333%; }
+
+grid[cols='6'] grid-box[span="3"] {
+  width: 50%; }
+
+grid[cols='6'] grid-box[span="4"] {
+  width: 66.66667%; }
+
+grid[cols='6'] grid-box[span="5"] {
+  width: 83.33333%; }
+
+grid[cols='6'] grid-box[span="6"] {
+  width: 100%; }
+
+grid[cols='6'] grid-box {
+  min-width: 16.66667%; }
+
+grid[cols='7'] grid-box[span="1"] {
+  width: 14.28571%; }
+
+grid[cols='7'] grid-box[span="2"] {
+  width: 28.57143%; }
+
+grid[cols='7'] grid-box[span="3"] {
+  width: 42.85714%; }
+
+grid[cols='7'] grid-box[span="4"] {
+  width: 57.14286%; }
+
+grid[cols='7'] grid-box[span="5"] {
+  width: 71.42857%; }
+
+grid[cols='7'] grid-box[span="6"] {
+  width: 85.71429%; }
+
+grid[cols='7'] grid-box[span="7"] {
+  width: 100%; }
+
+grid[cols='7'] grid-box {
+  min-width: 14.28571%; }
+
+grid[cols='8'] grid-box[span="1"] {
+  width: 12.5%; }
+
+grid[cols='8'] grid-box[span="2"] {
+  width: 25%; }
+
+grid[cols='8'] grid-box[span="3"] {
+  width: 37.5%; }
+
+grid[cols='8'] grid-box[span="4"] {
+  width: 50%; }
+
+grid[cols='8'] grid-box[span="5"] {
+  width: 62.5%; }
+
+grid[cols='8'] grid-box[span="6"] {
+  width: 75%; }
+
+grid[cols='8'] grid-box[span="7"] {
+  width: 87.5%; }
+
+grid[cols='8'] grid-box[span="8"] {
+  width: 100%; }
+
+grid[cols='8'] grid-box {
+  min-width: 12.5%; }
+
+grid[cols='9'] grid-box[span="1"] {
+  width: 11.11111%; }
+
+grid[cols='9'] grid-box[span="2"] {
+  width: 22.22222%; }
+
+grid[cols='9'] grid-box[span="3"] {
+  width: 33.33333%; }
+
+grid[cols='9'] grid-box[span="4"] {
+  width: 44.44444%; }
+
+grid[cols='9'] grid-box[span="5"] {
+  width: 55.55556%; }
+
+grid[cols='9'] grid-box[span="6"] {
+  width: 66.66667%; }
+
+grid[cols='9'] grid-box[span="7"] {
+  width: 77.77778%; }
+
+grid[cols='9'] grid-box[span="8"] {
+  width: 88.88889%; }
+
+grid[cols='9'] grid-box[span="9"] {
+  width: 100%; }
+
+grid[cols='9'] grid-box {
+  min-width: 11.11111%; }
+
+grid[cols='10'] grid-box[span="1"] {
+  width: 10%; }
+
+grid[cols='10'] grid-box[span="2"] {
+  width: 20%; }
+
+grid[cols='10'] grid-box[span="3"] {
+  width: 30%; }
+
+grid[cols='10'] grid-box[span="4"] {
+  width: 40%; }
+
+grid[cols='10'] grid-box[span="5"] {
+  width: 50%; }
+
+grid[cols='10'] grid-box[span="6"] {
+  width: 60%; }
+
+grid[cols='10'] grid-box[span="7"] {
+  width: 70%; }
+
+grid[cols='10'] grid-box[span="8"] {
+  width: 80%; }
+
+grid[cols='10'] grid-box[span="9"] {
+  width: 90%; }
+
+grid[cols='10'] grid-box[span="10"] {
+  width: 100%; }
+
+grid[cols='10'] grid-box {
+  min-width: 10%; }
+
+grid[cols='11'] grid-box[span="1"] {
+  width: 9.09091%; }
+
+grid[cols='11'] grid-box[span="2"] {
+  width: 18.18182%; }
+
+grid[cols='11'] grid-box[span="3"] {
+  width: 27.27273%; }
+
+grid[cols='11'] grid-box[span="4"] {
+  width: 36.36364%; }
+
+grid[cols='11'] grid-box[span="5"] {
+  width: 45.45455%; }
+
+grid[cols='11'] grid-box[span="6"] {
+  width: 54.54545%; }
+
+grid[cols='11'] grid-box[span="7"] {
+  width: 63.63636%; }
+
+grid[cols='11'] grid-box[span="8"] {
+  width: 72.72727%; }
+
+grid[cols='11'] grid-box[span="9"] {
+  width: 81.81818%; }
+
+grid[cols='11'] grid-box[span="10"] {
+  width: 90.90909%; }
+
+grid[cols='11'] grid-box[span="11"] {
+  width: 100%; }
+
+grid[cols='11'] grid-box {
+  min-width: 9.09091%; }
+
+grid[cols='12'] grid-box[span="1"] {
+  width: 8.33333%; }
+
+grid[cols='12'] grid-box[span="2"] {
+  width: 16.66667%; }
+
+grid[cols='12'] grid-box[span="3"] {
+  width: 25%; }
+
+grid[cols='12'] grid-box[span="4"] {
+  width: 33.33333%; }
+
+grid[cols='12'] grid-box[span="5"] {
+  width: 41.66667%; }
+
+grid[cols='12'] grid-box[span="6"] {
+  width: 50%; }
+
+grid[cols='12'] grid-box[span="7"] {
+  width: 58.33333%; }
+
+grid[cols='12'] grid-box[span="8"] {
+  width: 66.66667%; }
+
+grid[cols='12'] grid-box[span="9"] {
+  width: 75%; }
+
+grid[cols='12'] grid-box[span="10"] {
+  width: 83.33333%; }
+
+grid[cols='12'] grid-box[span="11"] {
+  width: 91.66667%; }
+
+grid[cols='12'] grid-box[span="12"] {
+  width: 100%; }
+
+grid[cols='12'] grid-box {
+  min-width: 8.33333%; }
