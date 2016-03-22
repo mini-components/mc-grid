@@ -1,3 +1,4 @@
+$max-columns: 12;
 
 grid {
   display: block;
@@ -15,9 +16,9 @@ grid {
   }
 }
 
-@for $columns from 1 through 3 {
-  grid[cols='#{$columns}'] {
 
+@for $columns from 1 through $max_columns {
+  grid[cols='#{$columns}'] {
     @for $i from 1 through $columns {
       grid-box[span="#{$i}"] {
         width: #{$i * 100 / $columns}%;
