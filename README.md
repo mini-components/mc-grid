@@ -22,13 +22,13 @@ This library depends on:
 
 #### grid
 
-Attribute 	| Value 	| Description
-----------|-----------|---------------------------------------------------
-columns   	| Number	| The number of columns the grid will have
+Attribute 	| Value 	               | Description
+----------|----------------------------|---------------------------------------------------
+cols      | Number between 1 and 12    | The number of columns the grid will have
 
 
 #### grid-box
 
-Attribute | Value 	 | Description
-----------|-----------|---------------------------------------------------
-span	   | Number	 | The with of the grid element measured in columns.
+Attribute  | Value                      | Description
+-----------|----------------------------|---------------------------------------------------
+span       | Number between 1 and 12    | The with of the grid element measured in columns
